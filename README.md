@@ -1,4 +1,5 @@
 # Magnetic-Encoder
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 * Designed an encoder that detects the position of a magnet and converts it's motion into an analog / digital output signal.
 * The position data is read on an Arduino. 
@@ -7,6 +8,7 @@
 * Creating this board from scratch and implementing panelization saved $147 on one bacth of order (20 boards).
 
 # Manufacturing Process
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * First we meet client's board specifications. This board already had the circuitry set up according to the supplier. Only specification was to panelize the board.
 * Therefore we first draw the schematic of the board.
@@ -25,7 +27,8 @@
 
 ![Panelization Manufacturer's Board](https://github.com/diptadas5/Magnetic-Encoder/blob/main/photos/Manufacturer'sBoard.PNG)
 
-#Finished Product
+# Finished Product
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Once we were done, we downloaded the Eagle gerber files and uploaded them onto the manufacterer's website to order them. Below are some images of the physical board and the board in use.
 
 ![Physical Board](https://github.com/diptadas5/Magnetic-Encoder/blob/main/photos/Physical%20Board.jpg)

@@ -19,3 +19,17 @@
 
 * One of our specification was to panelize the board. The following is the floorplan after panelization 
 
+![Panelization Floorplan](https://github.com/diptadas5/Magnetic-Encoder/blob/main/photos/Panelization%20Floorplan.PNG)
+
+* The manufacture's prototype is included below.
+
+![Panelization Manufacturer's Board](https://github.com/diptadas5/Magnetic-Encoder/blob/main/photos/Manufacturer'sBoard.PNG)
+
+#Finished Product
+* Once we were done, we downloaded the Eagle gerber files and uploaded them onto the manufacterer's website to order them. Below are some images of the physical board and the board in use.
+
+![Physical Board](https://github.com/diptadas5/Magnetic-Encoder/blob/main/photos/Physical%20Board.jpg)
+![Soldered Board](https://github.com/diptadas5/Magnetic-Encoder/blob/main/photos/Soldered%20Board.jpg)
+
+
+

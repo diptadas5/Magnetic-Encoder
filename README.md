@@ -9,8 +9,13 @@
 # Manufacturing Process
 
 * First we meet client's board specifications. This board already had the circuitry set up according to the supplier. Only specification was to panelize the board.
-* Therefore we first make the schematic of the board.
+* Therefore we first draw the schematic of the board.
 
 ![Board Schematic](https://github.com/diptadas5/Magnetic-Encoder/blob/main/photos/Schematic.PNG)
 
+* Once we are done drawing the schematic, it's time to lay out a floorplan for the physical board.
+
+![Board Floorplan](https://github.com/diptadas5/Magnetic-Encoder/blob/main/photos/Floorplan.PNG)
+
+* One of our specification was to panelize the board. The following is the floorplan after panelization 
 
